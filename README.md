@@ -1,2 +1,2 @@
-# finex
+# Finex
 Construyendo tu futuro
